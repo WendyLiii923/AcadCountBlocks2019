@@ -1,0 +1,47 @@
+C:\Users\Administrator\Desktop\AcadCountBlocks\AcadCountBlocks\bin\Debug\AcadCountBlocks.exe
+C:\Users\Administrator\Desktop\AcadCountBlocks\AcadCountBlocks\bin\Debug\AcadCountBlocks.pdb
+C:\Users\Administrator\Desktop\AcadCountBlocks\AcadCountBlocks\bin\Debug\AcadCountBlocks.xml
+C:\Users\Administrator\Desktop\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.frmMain.resources
+C:\Users\Administrator\Desktop\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.Resources.resources
+C:\Users\Administrator\Desktop\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.exe
+C:\Users\Administrator\Desktop\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.xml
+C:\Users\Administrator\Desktop\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.pdb
+C:\Users\wendy\Desktop\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.exe
+C:\Users\wendy\Desktop\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.xml
+C:\Users\wendy\Desktop\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.pdb
+C:\Users\Administrator\Desktop\新資料夾\AcadCountBlocks\AcadCountBlocks\bin\Debug\AcadCountBlocks.exe
+C:\Users\Administrator\Desktop\新資料夾\AcadCountBlocks\AcadCountBlocks\bin\Debug\AcadCountBlocks.pdb
+C:\Users\Administrator\Desktop\新資料夾\AcadCountBlocks\AcadCountBlocks\bin\Debug\AcadCountBlocks.xml
+C:\Users\Administrator\Desktop\新資料夾\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.frmMain.resources
+C:\Users\Administrator\Desktop\新資料夾\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.Resources.resources
+C:\Users\Administrator\Desktop\新資料夾\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\新資料夾\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.exe
+C:\Users\Administrator\Desktop\新資料夾\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.xml
+C:\Users\Administrator\Desktop\新資料夾\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.pdb
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\bin\Debug\AcadCountBlocks.exe.config
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\bin\Debug\AcadCountBlocks.exe
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\bin\Debug\AcadCountBlocks.pdb
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\bin\Debug\AcadCountBlocks.xml
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.vbproj.AssemblyReference.cache
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.frmMain.resources
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.Resources.resources
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.vbproj.GenerateResource.cache
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.vbproj.CoreCompileInputs.cache
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.exe
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.xml
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.pdb
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\bin\Debug\AcadCountBlocks.exe.config
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\bin\Debug\AcadCountBlocks.exe
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\bin\Debug\AcadCountBlocks.pdb
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\bin\Debug\AcadCountBlocks.xml
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.vbproj.AssemblyReference.cache
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.vbproj.SuggestedBindingRedirects.cache
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.frmMain.resources
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.Resources.resources
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.vbproj.GenerateResource.cache
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.vbproj.CoreCompileInputs.cache
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.exe
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.xml
+C:\Users\hambu\OneDrive\桌面\AcadCountBlocks - 2019\AcadCountBlocks\obj\x86\Debug\AcadCountBlocks.pdb
